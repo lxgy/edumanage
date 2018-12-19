@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<excel>
+	<colgroup>
+		<col index="A" width='4em'></col>
+		<col index="B" width='10em'></col>
+		<col index="C" width='15em'></col>
+		<col index="D" width='15em'></col>
+		<col index="E" width='15em'></col>
+		<col index="F" width='15em'></col>
+		<col index="G" width='20em'></col>
+		<col index="K" width='17em'></col>
+		<col index="H" width='17em'></col>
+		<col index="I" width='10em'></col>
+		<col index="J" width='10em'></col>
+		<col index="K" width='10em'></col>
+		<col index="K" width='10em'></col>
+		<col index="K" width='17em'></col>
+	</colgroup>
+	
+	<title rowspan="1" colspan="13" value="学生信息表"></title>
+	
+	<thead>
+		<th field="name" value="姓名"></th>
+		<th field="phone" value="手机"></th>
+		<th field="wechat" value="微信"></th>
+		<th field="qq" value="QQ"></th>
+		<th field="email" value="邮件"></th>
+		<th field="IDcard" value="身份证"></th>
+		<th field="university" value="学校"></th>
+		<th field="major" value="专业"></th>
+		<th field="education" value="学历"></th>
+		<th field="graduation_time" value="毕业时间"></th>
+		<th field="channel" value="渠道"></th>
+		<th field="contract_teacher.name" value="签约人"></th>
+		<th field="remark" value="备注"></th>
+	</thead>
+</excel>

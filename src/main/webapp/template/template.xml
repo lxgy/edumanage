@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<excel>
+	<thead>
+		<th field="name" value="姓名"></th>
+		<th field="university" value="学校"></th>
+		<th field="major" value="专业"></th>
+		<th field="education" value="学历"></th>
+		<th field="graduation_time" value="毕业时间"></th>
+		<th field="IDcard" value="身份证"></th>
+		<th field="phone" value="手机"></th>
+		<th field="qq" value="QQ"></th>
+		<th field="wechat" value="微信"></th>
+	</thead>
+</excel>

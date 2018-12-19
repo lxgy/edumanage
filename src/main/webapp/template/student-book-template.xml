@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<excel name="班级学生点名表">
+	<colgroup>
+		<col index="0" width='4em'></col>
+		<col index="1" width='10em'></col>
+		<col index="2" width='12em'></col>
+		<col index="3" width='13em'></col>
+		<col index="4" width='12em'></col>
+		<col index="5" width='14em'></col>
+		<col index="6" width='17em'></col>
+		<col index="7" width='12em'></col>
+		<col index="8" width='5em'></col>
+		<col width='3em'></col>
+		<col width='3em'></col>
+		<col width='3em'></col>
+		<col width='3em'></col>
+		<col width='3em'></col>
+		<col width='3em'></col>
+		<col width='3em'></col>
+		<col width='3em'></col>
+		<col width='3em'></col>
+		<col width='3em'></col>
+		<col width='3em'></col>
+		<col width='3em'></col>
+		<col width='3em'></col>
+		<col width='3em'></col>
+		<col width='3em'></col>
+		<col width='3em'></col>
+		<col width='3em'></col>
+		<col width='3em'></col>
+		<col width='3em'></col>
+		<col width='3em'></col>
+	</colgroup>
+	
+	<title rowspan="1" colspan="8" value="点名表"></title>
+	
+	<thead>
+		<th field="name" value="姓名"></th>
+		<th field="phone" value="手机"></th>
+		<th field="wechat" value="微信"></th>
+		<th field="qq" value="QQ"></th>
+		<th field="email" value="邮件"></th>
+		<th field="university" value="学校"></th>
+		<th field="major" value="专业"></th>
+		<th field="education" value="学历"></th>
+		<th></th>
+		<th></th>
+		<th></th>
+		<th></th>
+		<th></th>
+		<th></th>
+		<th></th>
+		<th></th>
+		<th></th>
+		<th></th>
+		<th></th>
+		<th></th>
+		<th></th>
+		<th></th>
+		<th></th>
+		<th></th>
+		<th></th>
+		<th></th>
+		<th></th>
+		<th></th>
+	</thead>
+</excel>
